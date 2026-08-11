@@ -1,0 +1,16 @@
+Spectral Garden Proprietary License
+© 2026 Spectral Garden Studios
+
+You are granted a non-exclusive license to use the Forsaken plugin for personal or commercial audio production.
+
+You may not:
+- redistribute the plugin
+- modify, decompile, or reverse-engineer the plugin
+- sell or repackage the plugin
+
+All rights reserved.
+
+DISCLAIMER — USE AT YOUR OWN RISK  
+All VST plugins, software units, and applications provided through Spectral Garden are experimental digital tools. While extreme care and testing have been applied to ensure stable, high‑performance architecture, all downloads and modules are provided “AS IS” without warranty of any kind.
+
+Use of these VST units and software applications is strictly at your own risk. The creator assumes no liability for audio hardware clipping, data corruption, DAW crashes, or unexpected sonic anomalies.
